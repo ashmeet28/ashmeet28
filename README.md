@@ -5,5 +5,4 @@
 - Linux
 - Virtual Machines
 - Game Engines
-- Computer Networks
-- Distributed File Systems
+- Distributed Systems
