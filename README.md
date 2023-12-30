@@ -1,6 +1,6 @@
 ## Hi, I am Ashmeet Singh
 ### Here is a list of my areas of interest
-- HTML, CSS
+- HTML, SCSS
 - Go, Rust
 - Linux
 - Virtual Machines
