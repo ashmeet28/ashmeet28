@@ -2,7 +2,7 @@
 
 ### Here is a list of my areas of interest
 - HTML, SCSS
-- Go, Rust
+- C, Go
 - Linux
 - Virtual Machines
 - Game Engines
