@@ -5,7 +5,7 @@
 - C, Go
 - Linux
 - Virtual Machines
-- Game Engines
 - Distributed Systems
+- Game Engines
 
-### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) where I post coding videos
+### I have a [YouTube channel](https://www.youtube.com/@BytesBasement)
