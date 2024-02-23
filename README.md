@@ -8,4 +8,4 @@
 - Distributed Systems
 - Game Engines
 
-### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) and a [Website](https://bytesbasement.com/)
+### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) and a [website](https://bytesbasement.com/)
