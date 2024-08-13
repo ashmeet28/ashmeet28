@@ -2,7 +2,7 @@
 
 ### Here is a list of my areas of interest
 
-- Go, Rust
+- Go and Rust
 - Linux
 - Web servers
 - Databases
