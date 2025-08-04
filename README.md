@@ -4,7 +4,10 @@
 
 - Go
 - Linux
-- Web servers
 - Databases
+- Virtual Machines
+- BitTorrent
+- Compilers
+- Distributed file systems
 
 ### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) and a [website](https://bytesbasement.com/)
