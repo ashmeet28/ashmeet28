@@ -8,6 +8,6 @@
 - Virtual Machines
 - BitTorrent
 - Compilers
-- Distributed file systems
+- Distributed File Systems
 
 ### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) and a [website](https://bytesbasement.com/)
