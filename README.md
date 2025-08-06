@@ -9,5 +9,6 @@
 - BitTorrent
 - Compilers
 - Distributed File Systems
+- RISC-V
 
 ### I have a [YouTube channel](https://www.youtube.com/@BytesBasement) and a [website](https://bytesbasement.com/)
