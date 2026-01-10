@@ -1,10 +1,10 @@
 - The name is **Ashmeet Singh**
 - Uses **Arch Linux**
 - Mostly writes programs in **Go**
-- **Wrote a compiler** for a new programming language from scratch
+- **Wrote a compiler** for a custom programming language from scratch
 - Trying to fully understand the **RISC-V ISA**
 - Relies on **QEMU virtual machines** for sandboxing
 - Knows a lot about **cryptography**
-- Maintains an archive of terabytes of media files downloaded via **BitTorrent**
-- Has a [YouTube channel](https://www.youtube.com/@BytesBasement)
+- Maintains an archive of several terabytes of media files downloaded via **BitTorrent**
+- Runs a [YouTube channel](https://www.youtube.com/@BytesBasement)
 - Currently developing a **video game** with **Godot** and **Inkscape**
